@@ -17,3 +17,7 @@ python3 render-schedule.py \
 ```bash
 bash tests/run_tests.sh
 ```
+
+## Video
+
+[Building an Incident Scheduling Tool.mp4]
