@@ -1,6 +1,6 @@
 # vishal take-home
 
-you don't require anything but python3 to run the code. I've included a bunch of test cases in /tests to cover edge behaviour.
+you only need python3 to run the code. I've also included some test cases I thought could cover edge behaviour.
 
 ## Run
 
