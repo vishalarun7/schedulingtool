@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-BINARY="${1:-./render-schedule}"
+BINARY="${1:-python3 ./render-schedule.py}"
 TESTS_DIR="$(cd "$(dirname "$0")" && pwd)"
 PASS=0
 FAIL=0
